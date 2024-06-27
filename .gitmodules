@@ -1,3 +1,2 @@
-[submodule "my-chart-app"]
-    path = my-chart-app
-    url = https://github.com/Jaiindra1/my-chart-app.git
+path = my-chart-app
+url = https://github.com/Jaiindra1/my-chart-app.git
